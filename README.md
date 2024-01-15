@@ -5,6 +5,9 @@
 - [IT Glossary](#it-glossary)
   - [Contents](#contents)
   - [Glossary](#glossary)
+  - [Contributing](#contributing)
+  - [License](#license)
+  - [Contact](#contact)
 
 ## Glossary
 
