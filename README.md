@@ -1,5 +1,18 @@
 # IT Glossary
 
+<div align="center">
+
+📚 ***List of acronyms for computer terms.*** 📚
+
+![Markdown](<https://img.shields.io/badge/markdown-%23000000?logo=markdown&logoColor=white&labelColor=grey>)
+[![License](<https://img.shields.io/github/license/danielfeitopin/it-glossary>)](LICENSE "License")
+[![GitHub issues](https://img.shields.io/github/issues/danielfeitopin/it-glossary)](<https://github.com/danielfeitopin/it-glossary> "Issues")
+[![GitHub stars](https://img.shields.io/github/stars/danielfeitopin/it-glossary)](<https://github.com/danielfeitopin/it-glossary/stargazers> "Stars")
+
+
+</div>
+
+
 ## Contents
 
 - [IT Glossary](#it-glossary)
