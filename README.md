@@ -26,8 +26,12 @@
 
 - AH: Authentication Header.
 - ARP: Address Resolution Protocol.
+- BPDU: Bridge Protocol Data Unit.
+- CBAC: Context-Based Access Control.
 - CDP: Cisco Discovery Protocol.
 - CIDR: Classless Interdomain Routing.
+- CoPP: Control Plane Policing.
+- CPPr: Control Plane Protection.
 - DLP: Data Loss Prevention.
 - DHCP: Dynamic Host Configuration Protocol.
 - DSCP: Differentiated Services Codepoint.
@@ -55,6 +59,7 @@
 - UDP: User Datagram Protocol.
 - VLSM: Variable-Length Subnet Masking.
 - VRRP: Virtual Router Redundancy Protocol.
+- ZBF: Zone-Based Firewall.
 
 ## Contributing
 
