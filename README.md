@@ -54,6 +54,7 @@
 - PHB: Per Hop Behavior.
 - PIM: Protocol-Independent Multicast.
 - QoS: Quality of Service.
+- RADIUS: Remote Authentication Dial-In User Service.
 - SNMP: Simple Network Management Protocol.
 - TCP: Transmission Control Protocol.
 - ToS: Type of Service.
