@@ -46,6 +46,7 @@
 - IETF: Internet Engineering Task Force.
 - IGMP: Internet Group Management Protocol.
 - IHL: Internet Header Length.
+- ISP: Internet Service Provider.
 - LDAP: Lightweight Directory Access Protocol.
 - MPLS: MultiProtocol Label Switching.
 - MTU: Maximum Transmission Unit.
