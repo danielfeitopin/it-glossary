@@ -43,6 +43,7 @@
 - HSRP: Hot Standby Router Protocol.
 - IANA: Internet Assigned Numbers Authority.
 - ICMP: Internet Control Message Protocol.
+- IETF: Internet Engineering Task Force.
 - IGMP: Internet Group Management Protocol.
 - IHL: Internet Header Length.
 - LDAP: Lightweight Directory Access Protocol.
