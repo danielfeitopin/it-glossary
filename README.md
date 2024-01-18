@@ -57,6 +57,7 @@
 - PIM: Protocol-Independent Multicast.
 - QoS: Quality of Service.
 - RADIUS: Remote Authentication Dial-In User Service.
+- SCP: Secure Copy Protocol.
 - SCTP: Stream Control Transmission Protocol.
 - SIP: Session Initiation Protocol.
 - SNMP: Simple Network Management Protocol.
