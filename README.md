@@ -49,6 +49,7 @@
 - MPLS: MultiProtocol Label Switching.
 - MTU: Maximum Transmission Unit.
 - NAT: Network Address Translation.
+- NPS: Network Policy Server.
 - OSPF: Open Shortest Path First.
 - PHB: Per Hop Behavior.
 - PIM: Protocol-Independent Multicast.
