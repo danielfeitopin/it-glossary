@@ -63,6 +63,7 @@
 - SIP: Session Initiation Protocol.
 - SNMP: Simple Network Management Protocol.
 - TCP: Transmission Control Protocol.
+- TCN: Topology Change Notification.
 - ToS: Type of Service.
 - UDP: User Datagram Protocol.
 - VLSM: Variable-Length Subnet Masking.
