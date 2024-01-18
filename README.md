@@ -48,6 +48,7 @@
 - IHL: Internet Header Length.
 - ISP: Internet Service Provider.
 - LDAP: Lightweight Directory Access Protocol.
+- LLDP: Link Layer Discovery Protocol.
 - MPLS: MultiProtocol Label Switching.
 - MTU: Maximum Transmission Unit.
 - NAT: Network Address Translation.
