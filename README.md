@@ -56,6 +56,7 @@
 - OSPF: Open Shortest Path First.
 - PHB: Per Hop Behavior.
 - PIM: Protocol-Independent Multicast.
+- PKI: Public Key Infrastructure.
 - QoS: Quality of Service.
 - RADIUS: Remote Authentication Dial-In User Service.
 - SCP: Secure Copy Protocol.
