@@ -29,6 +29,7 @@
 - BPDU: Bridge Protocol Data Unit.
 - CBAC: Context-Based Access Control.
 - CDP: Cisco Discovery Protocol.
+- CERT: Computer Emergency Response Team.
 - CIDR: Classless Interdomain Routing.
 - CoPP: Control Plane Policing.
 - CPPr: Control Plane Protection.
