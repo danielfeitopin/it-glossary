@@ -55,6 +55,7 @@
 - BIOS: Basic Input/Output System.
 - BGP: Border Gateway Protocol.
 - BPDU: Bridge Protocol Data Unit.
+- BTRFS: B-tree File System.
 
 ### C
 
@@ -83,10 +84,13 @@
 - EPROM: Erasable PROM.
 - ESP: Encapsulating Security Payload.
   - EFI System Partition.
+- EXT*: Extended Filesystem.
 
 ### F
 
+- FAT: File Allocation Table.
 - FIB: Forwarding Information Base.
+- FS: File System.
 - FTP: File Transfer Protocol.
 
 ### G
@@ -116,6 +120,10 @@
 - ISP: Internet Service Provider.
 - IPSec: IP Security.
 
+### J
+
+- JBOD: Just a Bunch of Disks.
+
 ### L
 
 - LACP: Link Aggregation Control Protocol.
@@ -134,6 +142,8 @@
 - NAT: Network Address Translation.
 - NFS: Network File System.
 - NPS: Network Policy Server.
+- NT: New Technologies.
+- NTFS: NT File System.
 - NTP: Network Time Protocol.
 - NVRAM: Non-Volatile RAM.
 
@@ -157,6 +167,7 @@
 ### R
 
 - RADIUS: Remote Authentication Dial-In User Service.
+- RAID: Redundant Array of Inexpensive Disks.
 - RAM: Random Access Memory.
 - RFC: Request For Comment.
 - ROM: Read Only Memory.
@@ -189,6 +200,7 @@
 - UAC: User Account Control.
 - UDP: User Datagram Protocol.
 - UEFI: Unified EFI.
+- UFS: Unix File System.
 
 ### V
 
@@ -201,10 +213,12 @@
 ### X
 
 - XMPP: eXtensible Messaging and Presence Protocol.
+- XFS: "X" File System.
 
 ### Z
 
 - ZBF: Zone-Based Firewall.
+- ZFS: Zettabyte File System.*
 
 ## Contributing
 
