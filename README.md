@@ -53,6 +53,7 @@
 ### B
 
 - BIOS: Basic Input/Output System.
+- BGP: Border Gateway Protocol.
 - BPDU: Bridge Protocol Data Unit.
 
 ### C
@@ -68,6 +69,7 @@
 
 - DLP: Data Loss Prevention.
 - DHCP: Dynamic Host Configuration Protocol.
+- DNS: Domain Name System.
 - DSCP: Differentiated Services Codepoint.
 - DWDM: Dense Wavelength Division Multiplexing.
 
@@ -104,11 +106,15 @@
 - IETF: Internet Engineering Task Force.
 - IGMP: Internet Group Management Protocol.
 - IHL: Internet Header Length.
+- IP: Internet Protocol.
 - iSCSI: Internet Small Computer System Interface.
 - ISP: Internet Service Provider.
+- IPSec: IP Security.
 
 ### L
 
+- LACP: Link Aggregation Control Protocol.
+- LAG: Link Aggregation Group.
 - LDAP: Lightweight Directory Access Protocol.
 - LLDP: Link Layer Discovery Protocol.
 
@@ -120,7 +126,9 @@
 ### N
 
 - NAT: Network Address Translation.
+- NFS: Network File System.
 - NPS: Network Policy Server.
+- NTP: Network Time Protocol.
 
 ### O
 
@@ -132,6 +140,7 @@
 - PHB: Per Hop Behavior.
 - PIM: Protocol-Independent Multicast.
 - PKI: Public Key Infrastructure.
+- PPPoE: Point to Point Protocol over Ethernet.
 
 ### Q
 
@@ -140,6 +149,7 @@
 ### R
 
 - RADIUS: Remote Authentication Dial-In User Service.
+- RFC: Request For Comment.
 
 ### S
 
@@ -148,13 +158,16 @@
 - SCTP: Stream Control Transmission Protocol.
 - SCSI: Small Computer System Interface.
 - SIP: Session Initiation Protocol.
+- SLAAC: Stateless Address Autoconfiguration.
 - SNMP: Simple Network Management Protocol.
 - SQL: Structured Query Language.
+- SSL: Secure Sockets Layer.
 
 ### T
 
 - TCN: Topology Change Notification.
 - TCP: Transmission Control Protocol.
+- TLS: Transport Layer Security.
 - ToS: Type of Service.
 
 ### U
