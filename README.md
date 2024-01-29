@@ -82,7 +82,8 @@
 - ECN: Explicit Congestion Notification.
 - EFI: Extensible Firmware Interface.
 - EPROM: Erasable PROM.
-- ESP: Encapsulating Security Payload.
+- ESP:
+  - Encapsulating Security Payload.
   - EFI System Partition.
 
 ### F
