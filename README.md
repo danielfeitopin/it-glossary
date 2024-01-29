@@ -80,6 +80,7 @@
 
 ### H
 
+- HDL: Hardware Description Language.
 - HSRP: Hot Standby Router Protocol.
 
 ### I
@@ -146,6 +147,7 @@
 ### V
 
 - VHDL: VHSIC Hardware Description Language.
+- VHSIC: Very High Speed Integrated Circuit Program.
 - VLSI: Very Large Scale Integration.
 - VLSM: Variable-Length Subnet Masking.
 - VRRP: Virtual Router Redundancy Protocol.
