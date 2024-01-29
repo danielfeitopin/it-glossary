@@ -50,6 +50,7 @@
 
 ### B
 
+- BIOS: Basic Input/Output System.
 - BPDU: Bridge Protocol Data Unit.
 
 ### C
@@ -142,6 +143,7 @@
 
 - UAC: User Account Control.
 - UDP: User Datagram Protocol.
+- UEFI: Unified Extensible Firmware Interface.
 
 ### V
 
