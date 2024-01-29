@@ -140,6 +140,7 @@
 
 ### U
 
+- UAC: User Account Control.
 - UDP: User Datagram Protocol.
 
 ### V
