@@ -87,6 +87,7 @@
 ### F
 
 - FIB: Forwarding Information Base.
+- FTP: File Transfer Protocol.
 
 ### G
 
@@ -101,6 +102,7 @@
 
 - HDL: Hardware Description Language.
 - HSRP: Hot Standby Router Protocol.
+- HTTP: Hyper-Text Transfer Protocol.
 
 ### I
 
@@ -123,6 +125,7 @@
 
 ### M
 
+- MBR: Master Boot Record.
 - MPLS: MultiProtocol Label Switching.
 - MTU: Maximum Transmission Unit.
 
@@ -157,6 +160,9 @@
 - RAM: Random Access Memory.
 - RFC: Request For Comment.
 - ROM: Read Only Memory.
+- RTP: Real-time Transport Protocol.
+- RTSP: Real-Time Streaming Protocol.
+- RTMP: Real-Time Messasging Protocol.
 
 ### S
 
@@ -168,6 +174,7 @@
 - SLAAC: Stateless Address Autoconfiguration.
 - SNMP: Simple Network Management Protocol.
 - SQL: Structured Query Language.
+- SSH: Secure Shell.
 - SSL: Secure Sockets Layer.
 
 ### T
@@ -190,6 +197,10 @@
 - VLSI: Very Large Scale Integration.
 - VLSM: Variable-Length Subnet Masking.
 - VRRP: Virtual Router Redundancy Protocol.
+
+### X
+
+- XMPP: eXtensible Messaging and Presence Protocol.
 
 ### Z
 
