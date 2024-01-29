@@ -47,6 +47,8 @@
 
 - AH: Authentication Header.
 - ARP: Address Resolution Protocol.
+- ATA: AT Attachment.
+- AoE: ATA over Ethernet.
 
 ### B
 
@@ -91,6 +93,7 @@
 - IETF: Internet Engineering Task Force.
 - IGMP: Internet Group Management Protocol.
 - IHL: Internet Header Length.
+- iSCSI: Internet Small Computer System Interface.
 - ISP: Internet Service Provider.
 
 ### L
@@ -114,6 +117,7 @@
 
 ### P
 
+- PATA: Parallel ATA.
 - PHB: Per Hop Behavior.
 - PIM: Protocol-Independent Multicast.
 - PKI: Public Key Infrastructure.
@@ -128,8 +132,10 @@
 
 ### S
 
+- SATA: Serial ATA.
 - SCP: Secure Copy Protocol.
 - SCTP: Stream Control Transmission Protocol.
+- SCSI: Small Computer System Interface.
 - SIP: Session Initiation Protocol.
 - SNMP: Simple Network Management Protocol.
 - SQL: Structured Query Language.
