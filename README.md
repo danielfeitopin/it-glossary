@@ -130,6 +130,7 @@
 - SCTP: Stream Control Transmission Protocol.
 - SIP: Session Initiation Protocol.
 - SNMP: Simple Network Management Protocol.
+- SQL: Structured Query Language.
 
 ### T
 
