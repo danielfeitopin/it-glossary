@@ -47,10 +47,16 @@
 
 - AH: Authentication Header.
 - ARP: Address Resolution Protocol.
+- ATA: AT Attachment.
+- AoE: ATA over Ethernet.
 
 ### B
 
+- BASIC: Beginners' All-purpose Symbolic Instruction Code​.
+- BGP: Border Gateway Protocol.
+- BIOS: Basic Input Output System.
 - BPDU: Bridge Protocol Data Unit.
+- BSD: Berkley Software Distribution.
 
 ### C
 
@@ -58,25 +64,40 @@
 - CDP: Cisco Discovery Protocol.
 - CERT: Computer Emergency Response Team.
 - CIDR: Classless Interdomain Routing.
-- CoPP: Control Plane Policing.
+- CMOS: Complementary Metal-Oxide-Semiconductor.
 - CPPr: Control Plane Protection.
+- CoPP: Control Plane Policing.
 
 ### D
 
-- DLP: Data Loss Prevention.
 - DHCP: Dynamic Host Configuration Protocol.
+- DLP: Data Loss Prevention.
+- DNS: Domain Name System.
 - DSCP: Differentiated Services Codepoint.
 - DWDM: Dense Wavelength Division Multiplexing.
 
 ### E
 
-- EIGRP: Enhanced Interior Gateway Routing Protocol.
 - ECN: Explicit Congestion Notification.
+- EFI: Extensible Firmware Interface.
+- EIGRP: Enhanced Interior Gateway Routing Protocol.
 - ESP: Encapsulating Security Payload.
+  - EFI System Partition.
+
 
 ### F
 
 - FIB: Forwarding Information Base.
+- FORTRAN: Formula Translation.
+
+### G
+
+- GCC: GNU Compiler Collection.
+- GIMP: GNU Image Manipulation Program.
+- GNU: GNU's Not Unix.
+- GPL: GNU Pulishing License.
+- GPT: GUID Partition Table.
+- GRUB: GRand Unified Bootloader.
 
 ### H
 
@@ -89,22 +110,32 @@
 - IETF: Internet Engineering Task Force.
 - IGMP: Internet Group Management Protocol.
 - IHL: Internet Header Length.
+- IP: Internet Protocol.
+- IPMI: Intelligent Platform Management Interface.
+- IPSec: IP Security.
 - ISP: Internet Service Provider.
+- iSCSI: Internet Small Computer System Interface.
 
 ### L
 
+- LACP: Link Aggregation Control Protocol.
+- LAG: Link Aggregation Group.
 - LDAP: Lightweight Directory Access Protocol.
+- LGPL: Lesser GPL.
 - LLDP: Link Layer Discovery Protocol.
 
 ### M
 
+- MBR: Master Boot Record.
 - MPLS: MultiProtocol Label Switching.
 - MTU: Maximum Transmission Unit.
 
 ### N
 
 - NAT: Network Address Translation.
+- NFS: Network File System.
 - NPS: Network Policy Server.
+- NVRAM: Non-Volatile RAM.
 
 ### O
 
@@ -115,6 +146,7 @@
 - PHB: Per Hop Behavior.
 - PIM: Protocol-Independent Multicast.
 - PKI: Public Key Infrastructure.
+- PPPoE: Point to Point Protocol over Ethernet.
 
 ### Q
 
@@ -123,28 +155,38 @@
 ### R
 
 - RADIUS: Remote Authentication Dial-In User Service.
+- RAM: Random Access Memory.
+- RFC: Request For Comment
+- ROM: Read Only Memory.
 
 ### S
 
+- SAS: Serial Attached SCSI.
 - SCP: Secure Copy Protocol.
+- SCSI: Small Computer System Interface.
 - SCTP: Stream Control Transmission Protocol.
 - SIP: Session Initiation Protocol.
+- SLAAC: Stateless Address Autoconfiguration.
 - SNMP: Simple Network Management Protocol.
 - SQL: Structured Query Language.
+- SSL: Secure Sockets Layer.
 
 ### T
 
 - TCN: Topology Change Notification.
 - TCP: Transmission Control Protocol.
+- TLS: Transport Layer Security.
 - ToS: Type of Service.
 
 ### U
 
 - UAC: User Account Control.
 - UDP: User Datagram Protocol.
+- UEFI: Unified Extensible Firmware Interface.
 
 ### V
 
+- VLSI: Very Large Scale Integration.
 - VLSM: Variable-Length Subnet Masking.
 - VRRP: Virtual Router Redundancy Protocol.
 
