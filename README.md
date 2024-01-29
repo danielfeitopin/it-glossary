@@ -81,6 +81,15 @@
 
 - FIB: Forwarding Information Base.
 
+### G
+
+- GCC: GNU Compiler Collection.
+- GIMP: GNU Image Manipulation Program.
+- GNU: GNU's Not Unix.
+- GPL: GNU Pulishing License.
+- GPT: GUID Partition Table.
+- GRUB: GRand Unified Bootloader.
+
 ### H
 
 - HDL: Hardware Description Language.
