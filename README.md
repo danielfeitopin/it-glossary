@@ -75,7 +75,9 @@
 
 - EIGRP: Enhanced Interior Gateway Routing Protocol.
 - ECN: Explicit Congestion Notification.
+- EFI: Extensible Firmware Interface.
 - ESP: Encapsulating Security Payload.
+  - EFI System Partition.
 
 ### F
 
@@ -159,7 +161,7 @@
 
 - UAC: User Account Control.
 - UDP: User Datagram Protocol.
-- UEFI: Unified Extensible Firmware Interface.
+- UEFI: Unified EFI.
 
 ### V
 
