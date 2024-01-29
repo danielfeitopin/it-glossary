@@ -62,6 +62,7 @@
 - CDP: Cisco Discovery Protocol.
 - CERT: Computer Emergency Response Team.
 - CIDR: Classless Interdomain Routing.
+- CMOS: Complementary Metal-Oxide-Semiconductor.
 - CoPP: Control Plane Policing.
 - CPPr: Control Plane Protection.
 
@@ -75,9 +76,11 @@
 
 ### E
 
+- EEPROM: Electronically EPROM.
 - EIGRP: Enhanced Interior Gateway Routing Protocol.
 - ECN: Explicit Congestion Notification.
 - EFI: Extensible Firmware Interface.
+- EPROM: Erasable PROM.
 - ESP: Encapsulating Security Payload.
   - EFI System Partition.
 
@@ -129,6 +132,7 @@
 - NFS: Network File System.
 - NPS: Network Policy Server.
 - NTP: Network Time Protocol.
+- NVRAM: Non-Volatile RAM.
 
 ### O
 
@@ -141,6 +145,7 @@
 - PIM: Protocol-Independent Multicast.
 - PKI: Public Key Infrastructure.
 - PPPoE: Point to Point Protocol over Ethernet.
+- PROM: Programmable ROM.
 
 ### Q
 
@@ -149,7 +154,9 @@
 ### R
 
 - RADIUS: Remote Authentication Dial-In User Service.
+- RAM: Random Access Memory.
 - RFC: Request For Comment.
+- ROM: Read Only Memory.
 
 ### S
 
