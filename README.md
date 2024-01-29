@@ -84,7 +84,6 @@
 - EPROM: Erasable PROM.
 - ESP: Encapsulating Security Payload.
   - EFI System Partition.
-- EXT*: Extended Filesystem.
 
 ### F
 
