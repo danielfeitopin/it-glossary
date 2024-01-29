@@ -145,6 +145,8 @@
 
 ### V
 
+- VHDL: VHSIC Hardware Description Language.
+- VLSI: Very Large-Scale Integration.
 - VLSM: Variable-Length Subnet Masking.
 - VRRP: Virtual Router Redundancy Protocol.
 
