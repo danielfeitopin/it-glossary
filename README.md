@@ -98,7 +98,7 @@
 - GCC: GNU Compiler Collection.
 - GIMP: GNU Image Manipulation Program.
 - GNU: GNU's Not Unix.
-- GPL: gnu General Public License.
+- GPL: GNU General Public License.
 - GPT: GUID Partition Table.
 - GRUB: GRand Unified Bootloader.
 
