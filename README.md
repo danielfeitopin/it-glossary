@@ -140,6 +140,7 @@
 ### N
 
 - NAT: Network Address Translation.
+- NDP: Neighbor Discovery Protocol.
 - NFS: Network File System.
 - NPS: Network Policy Server.
 - NT: New Technologies.
