@@ -188,6 +188,7 @@
 - SQL: Structured Query Language.
 - SSH: Secure Shell.
 - SSL: Secure Sockets Layer.
+- STP: Spanning Tree Protocol.
 
 ### T
 
