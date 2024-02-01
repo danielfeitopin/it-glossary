@@ -217,6 +217,12 @@
 - XMPP: eXtensible Messaging and Presence Protocol.
 - XFS: "X" File System.
 
+### Y
+
+- YAML:
+  - YAML Ain't Markup Language.
+  - Yet Another Markup Language.
+
 ### Z
 
 - ZBF: Zone-Based Firewall.
