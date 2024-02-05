@@ -203,6 +203,7 @@
 - UDP: User Datagram Protocol.
 - UEFI: Unified EFI.
 - UFS: Unix File System.
+- UUID: Universally Unique Identifier.
 
 ### V
 
