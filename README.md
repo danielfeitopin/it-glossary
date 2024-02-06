@@ -158,6 +158,7 @@
 - PHB: Per Hop Behavior.
 - PIM: Protocol-Independent Multicast.
 - PKI: Public Key Infrastructure.
+- PLC: Programmable Logic Controller.
 - PPPoE: Point to Point Protocol over Ethernet.
 - PROM: Programmable ROM.
 
