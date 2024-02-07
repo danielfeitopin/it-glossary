@@ -204,6 +204,8 @@
 - UDP: User Datagram Protocol.
 - UEFI: Unified EFI.
 - UFS: Unix File System.
+- URI: Uniform Resource Identifier.
+- URL: Uniform Resource Locator.
 - UUID: Universally Unique Identifier.
 
 ### V
