@@ -135,6 +135,7 @@
 
 - MBR: Master Boot Record.
 - MPLS: MultiProtocol Label Switching.
+- MQTT: MQ Telemetry Transport.
 - MTU: Maximum Transmission Unit.
 
 ### N
