@@ -217,6 +217,10 @@
 - VLSM: Variable-Length Subnet Masking.
 - VRRP: Virtual Router Redundancy Protocol.
 
+### W
+
+- WWW: World Wide Web.
+
 ### X
 
 - XMPP: eXtensible Messaging and Presence Protocol.
