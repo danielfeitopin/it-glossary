@@ -90,6 +90,7 @@
 
 - FAT: File Allocation Table.
 - FIB: Forwarding Information Base.
+- FQDN: Fully Qualified Domain Name.
 - FS: File System.
 - FTP: File Transfer Protocol.
 
