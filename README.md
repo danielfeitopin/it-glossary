@@ -91,6 +91,7 @@
 
 - FAT: File Allocation Table.
 - FIB: Forwarding Information Base.
+- FPGA: Field Programmable Gate Arrays.
 - FQDN: Fully Qualified Domain Name.
 - FS: File System.
 - FTP: File Transfer Protocol.
