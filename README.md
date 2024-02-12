@@ -136,6 +136,9 @@
 
 ### M
 
+- MAC:
+  - Media Access Control.
+  - Message Authentication Code.
 - MBR: Master Boot Record.
 - MPLS: MultiProtocol Label Switching.
 - MQTT: MQ Telemetry Transport.
