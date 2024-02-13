@@ -161,6 +161,7 @@
 
 ### P
 
+- PAM: Pluggable Authentication Modules.
 - PATA: Parallel ATA.
 - PHB: Per Hop Behavior.
 - PIM: Protocol-Independent Multicast.
