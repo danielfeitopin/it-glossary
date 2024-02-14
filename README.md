@@ -69,12 +69,14 @@
 
 ### D
 
+- DDoS: Distributed Denial of Service
 - DFIR: Digital Forensics and Incident Response.
 - DHCP: Dynamic Host Configuration Protocol.
 - DLP: Data Loss Prevention.
 - DNS: Domain Name System.
 - DSCP: Differentiated Services Codepoint.
 - DWDM: Dense Wavelength Division Multiplexing.
+
 
 ### E
 
