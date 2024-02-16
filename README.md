@@ -150,6 +150,7 @@
 - NDP: Neighbor Discovery Protocol.
 - NFS: Network File System.
 - NPS: Network Policy Server.
+- NSE: Nmap Scripting Engine.
 - NT: New Technologies.
 - NTFS: NT File System.
 - NTP: Network Time Protocol.
