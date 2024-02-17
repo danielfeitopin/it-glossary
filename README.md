@@ -137,6 +137,7 @@
 - LACP: Link Aggregation Control Protocol.
 - LAG: Link Aggregation Group.
 - LDAP: Lightweight Directory Access Protocol.
+- LGTM: Looks Good To Me
 - LLDP: Link Layer Discovery Protocol.
 
 ### M
