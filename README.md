@@ -47,6 +47,7 @@
 
 - AH: Authentication Header.
 - AoE: ATA over Ethernet.
+- APU: Accelerated Processing Unit.
 - ARP: Address Resolution Protocol.
 - ATA: AT Attachment.
 
@@ -66,6 +67,7 @@
 - CMOS: Complementary Metal-Oxide-Semiconductor.
 - CoPP: Control Plane Policing.
 - CPPr: Control Plane Protection.
+- CPU: Central Processing Unit.
 
 ### D
 
@@ -105,6 +107,7 @@
 - GNU: GNU's Not Unix.
 - GPL: GNU General Public License.
 - GPT: GUID Partition Table.
+- GPU: Graphics Processing Unit.
 - GRUB: GRand Unified Bootloader.
 
 ### H
