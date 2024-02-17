@@ -46,9 +46,9 @@
 ### A
 
 - AH: Authentication Header.
+- AoE: ATA over Ethernet.
 - ARP: Address Resolution Protocol.
 - ATA: AT Attachment.
-- AoE: ATA over Ethernet.
 
 ### B
 
@@ -69,8 +69,8 @@
 
 ### D
 
-- DoS: Denial of Service
 - DDoS: Distributed Denial of Service
+- DoS: Denial of Service
 - DFIR: Digital Forensics and Incident Response.
 - DHCP: Dynamic Host Configuration Protocol.
 - DLP: Data Loss Prevention.
@@ -80,10 +80,10 @@
 
 ### E
 
-- EEPROM: Electronically EPROM.
-- EIGRP: Enhanced Interior Gateway Routing Protocol.
 - ECN: Explicit Congestion Notification.
+- EEPROM: Electronically EPROM.
 - EFI: Extensible Firmware Interface.
+- EIGRP: Enhanced Interior Gateway Routing Protocol.
 - EPROM: Erasable PROM.
 - ESP:
   - Encapsulating Security Payload.
@@ -121,9 +121,9 @@
 - IGMP: Internet Group Management Protocol.
 - IHL: Internet Header Length.
 - IP: Internet Protocol.
+- IPSec: IP Security.
 - iSCSI: Internet Small Computer System Interface.
 - ISP: Internet Service Provider.
-- IPSec: IP Security.
 
 ### J
 
@@ -184,16 +184,16 @@
 - RAM: Random Access Memory.
 - RFC: Request For Comment.
 - ROM: Read Only Memory.
+- RTMP: Real-Time Messasging Protocol.
 - RTP: Real-time Transport Protocol.
 - RTSP: Real-Time Streaming Protocol.
-- RTMP: Real-Time Messasging Protocol.
 
 ### S
 
 - SATA: Serial ATA.
 - SCP: Secure Copy Protocol.
-- SCTP: Stream Control Transmission Protocol.
 - SCSI: Small Computer System Interface.
+- SCTP: Stream Control Transmission Protocol.
 - SIP: Session Initiation Protocol.
 - SLAAC: Stateless Address Autoconfiguration.
 - SNMP: Simple Network Management Protocol.
@@ -233,8 +233,8 @@
 
 ### X
 
-- XMPP: eXtensible Messaging and Presence Protocol.
 - XFS: "X" File System.
+- XMPP: eXtensible Messaging and Presence Protocol.
 
 ### Y
 
