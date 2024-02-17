@@ -69,6 +69,8 @@
 
 ### D
 
+- DoS: Denial of Service
+- DDoS: Distributed Denial of Service
 - DFIR: Digital Forensics and Incident Response.
 - DHCP: Dynamic Host Configuration Protocol.
 - DLP: Data Loss Prevention.
