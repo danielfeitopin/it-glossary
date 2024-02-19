@@ -155,6 +155,7 @@
 - NDP: Neighbor Discovery Protocol.
 - NFS: Network File System.
 - NPS: Network Policy Server.
+- NPU: Neural Processing Unit.
 - NSE: Nmap Scripting Engine.
 - NT: New Technologies.
 - NTFS: NT File System.
