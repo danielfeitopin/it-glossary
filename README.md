@@ -188,6 +188,7 @@
 - RAM: Random Access Memory.
 - RFC: Request For Comment.
 - ROM: Read Only Memory.
+- RSA: Rivest, Shamir y Adleman.
 - RTMP: Real-Time Messasging Protocol.
 - RTP: Real-time Transport Protocol.
 - RTSP: Real-Time Streaming Protocol.
