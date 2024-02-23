@@ -196,6 +196,7 @@
 
 ### S
 
+- SAM: Security Account Manager.
 - SATA: Serial ATA.
 - SCP: Secure Copy Protocol.
 - SCSI: Small Computer System Interface.
