@@ -63,6 +63,7 @@
 - CBAC: Context-Based Access Control.
 - CDP: Cisco Discovery Protocol.
 - CERT: Computer Emergency Response Team.
+- CGNAT: Carrier Grade NAT.
 - CIDR: Classless Interdomain Routing.
 - CMOS: Complementary Metal-Oxide-Semiconductor.
 - CoPP: Control Plane Policing.
