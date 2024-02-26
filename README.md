@@ -143,6 +143,7 @@
 ### M
 
 - MAC:
+  - Mandatory Access Control.
   - Media Access Control.
   - Message Authentication Code.
 - MBR: Master Boot Record.
