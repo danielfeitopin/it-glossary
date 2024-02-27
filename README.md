@@ -66,6 +66,7 @@
 - CGNAT: Carrier Grade NAT.
 - CIDR: Classless Interdomain Routing.
 - CMOS: Complementary Metal-Oxide-Semiconductor.
+- CN: Common Name.
 - CoPP: Control Plane Policing.
 - CPPr: Control Plane Protection.
 - CPU: Central Processing Unit.
@@ -77,6 +78,7 @@
 - DFIR: Digital Forensics and Incident Response.
 - DHCP: Dynamic Host Configuration Protocol.
 - DLP: Data Loss Prevention.
+- DN: Distinguished Name.
 - DNS: Domain Name System.
 - DSCP: Differentiated Services Codepoint.
 - DWDM: Dense Wavelength Division Multiplexing.
