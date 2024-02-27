@@ -174,6 +174,7 @@
 
 - PAM: Pluggable Authentication Modules.
 - PATA: Parallel ATA.
+- PKI: Public Key Infrastructure.
 - PHB: Per Hop Behavior.
 - PIM: Protocol-Independent Multicast.
 - PKI: Public Key Infrastructure.
