@@ -169,6 +169,7 @@
 
 ### O
 
+- OCSP: Online Certificate Status Protocol.
 - OLE: Object Linking and Embedding.
 - OSPF: Open Shortest Path First.
 
