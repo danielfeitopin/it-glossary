@@ -71,6 +71,7 @@
 - CPPr: Control Plane Protection.
 - CPU: Central Processing Unit.
 - CRL: Certificate Revocation List.
+- CSS: Cascading Style Sheets.
 
 ### D
 
