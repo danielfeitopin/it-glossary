@@ -87,6 +87,7 @@
 
 ### E
 
+- ECDSA: Elliptic Curve Digital Signature Algorithm.
 - ECN: Explicit Congestion Notification.
 - EEPROM: Electronically EPROM.
 - EFI: Extensible Firmware Interface.
