@@ -75,6 +75,7 @@
 
 ### D
 
+-  DCIM: Data Center Infrastructure Management.
 - DDoS: Distributed Denial of Service
 - DoS: Denial of Service
 - DFIR: Digital Forensics and Incident Response.
