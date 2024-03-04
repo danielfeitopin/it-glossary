@@ -147,6 +147,7 @@
 - LAG: Link Aggregation Group.
 - LDAP: Lightweight Directory Access Protocol.
 - LLDP: Link Layer Discovery Protocol.
+- LUN: Logical Unit Number.
 
 ### M
 
