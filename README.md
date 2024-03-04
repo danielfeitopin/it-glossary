@@ -95,6 +95,7 @@
 - EFI: Extensible Firmware Interface.
 - EIGRP: Enhanced Interior Gateway Routing Protocol.
 - EPROM: Erasable PROM.
+- ERP: Enterprise Resource Planning.
 - ESP:
   - Encapsulating Security Payload.
   - EFI System Partition.
