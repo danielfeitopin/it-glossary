@@ -75,7 +75,8 @@
 
 ### D
 
--  DCIM: Data Center Infrastructure Management.
+- DAS: Direct Attached Storage.
+- DCIM: Data Center Infrastructure Management.
 - DDoS: Distributed Denial of Service
 - DoS: Denial of Service
 - DFIR: Digital Forensics and Incident Response.
@@ -160,6 +161,7 @@
 
 ### N
 
+- NAS: Network Attached Storage.
 - NAT: Network Address Translation.
 - NDP: Neighbor Discovery Protocol.
 - NFS: Network File System.
@@ -208,6 +210,7 @@
 ### S
 
 - SAM: Security Account Manager.
+- SAN: Storage Area Network.
 - SATA: Serial ATA.
 - SCP: Secure Copy Protocol.
 - SCSI: Small Computer System Interface.
