@@ -131,6 +131,7 @@
 - IETF: Internet Engineering Task Force.
 - IGMP: Internet Group Management Protocol.
 - IHL: Internet Header Length.
+- IOPS: Input/Output Operations Per Second.
 - IP: Internet Protocol.
 - IPSec: IP Security.
 - iSCSI: Internet Small Computer System Interface.
