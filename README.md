@@ -133,6 +133,7 @@
 - IGMP: Internet Group Management Protocol.
 - IHL: Internet Header Length.
 - IOPS: Input/Output Operations Per Second.
+- IoT: Internet of Things.
 - IP: Internet Protocol.
 - IPSec: IP Security.
 - iSCSI: Internet Small Computer System Interface.
