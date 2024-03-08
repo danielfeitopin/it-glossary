@@ -219,6 +219,7 @@
 - SCP: Secure Copy Protocol.
 - SCSI: Small Computer System Interface.
 - SCTP: Stream Control Transmission Protocol.
+- SHA: Secure Hash Algorithm.
 - SIP: Session Initiation Protocol.
 - SLAAC: Stateless Address Autoconfiguration.
 - SNMP: Simple Network Management Protocol.
