@@ -78,12 +78,13 @@
 - DAS: Direct Attached Storage.
 - DCIM: Data Center Infrastructure Management.
 - DDoS: Distributed Denial of Service
-- DoS: Denial of Service
+- DES: Data Encryption Standard.
 - DFIR: Digital Forensics and Incident Response.
 - DHCP: Dynamic Host Configuration Protocol.
 - DLP: Data Loss Prevention.
 - DN: Distinguished Name.
 - DNS: Domain Name System.
+- DoS: Denial of Service
 - DSCP: Differentiated Services Codepoint.
 - DWDM: Dense Wavelength Division Multiplexing.
 
