@@ -253,6 +253,7 @@
 - VLSI: Very Large Scale Integration.
 - VLSM: Variable-Length Subnet Masking.
 - VRRP: Virtual Router Redundancy Protocol.
+- VT: Virtualization Technology.
 
 ### W
 
