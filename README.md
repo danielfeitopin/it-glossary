@@ -257,6 +257,7 @@
 
 ### W
 
+- WSUS: Windows Server Update Services.
 - WWW: World Wide Web.
 
 ### X
