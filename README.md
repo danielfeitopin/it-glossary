@@ -72,6 +72,7 @@
 - CPU: Central Processing Unit.
 - CRL: Certificate Revocation List.
 - CSS: Cascading Style Sheets.
+- CVE: Common Vulnerabilities and Exposures.
 
 ### D
 
