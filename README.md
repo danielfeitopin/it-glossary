@@ -45,6 +45,7 @@
 
 ### A
 
+- AES: Advanced Encryption Standard.
 - AH: Authentication Header.
 - AoE: ATA over Ethernet.
 - APU: Accelerated Processing Unit.
