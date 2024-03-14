@@ -130,6 +130,7 @@
 
 ### I
 
+- IaaS: Infrastructure as a Service.
 - IANA: Internet Assigned Numbers Authority.
 - ICMP: Internet Control Message Protocol.
 - IETF: Internet Engineering Task Force.
