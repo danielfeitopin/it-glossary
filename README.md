@@ -74,6 +74,7 @@
 - CRL: Certificate Revocation List.
 - CSS: Cascading Style Sheets.
 - CVE: Common Vulnerabilities and Exposures.
+- CWE: Common Weakness Enumeration.
 
 ### D
 
