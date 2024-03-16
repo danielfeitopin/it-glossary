@@ -93,6 +93,7 @@
 
 ### E
 
+- EBR: Extended Boot Record.
 - ECDSA: Elliptic Curve Digital Signature Algorithm.
 - ECN: Explicit Congestion Notification.
 - EEPROM: Electronically EPROM.
