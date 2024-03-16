@@ -122,6 +122,7 @@
 - GPT: GUID Partition Table.
 - GPU: Graphics Processing Unit.
 - GRUB: GRand Unified Bootloader.
+- GUID: Globally Unique IDentifier.
 
 ### H
 
