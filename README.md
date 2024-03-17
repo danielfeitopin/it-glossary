@@ -45,6 +45,7 @@
 
 ### A
 
+- ACL: Access Control Lists.
 - AES: Advanced Encryption Standard.
 - AH: Authentication Header.
 - AoE: ATA over Ethernet.
