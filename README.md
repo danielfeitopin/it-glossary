@@ -48,6 +48,7 @@
 - AES: Advanced Encryption Standard.
 - AH: Authentication Header.
 - AoE: ATA over Ethernet.
+- APT: Advanced Packaging Tool.
 - APU: Accelerated Processing Unit.
 - ARP: Address Resolution Protocol.
 - ATA: AT Attachment.
