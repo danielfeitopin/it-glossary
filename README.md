@@ -158,6 +158,7 @@
 - LAG: Link Aggregation Group.
 - LDAP: Lightweight Directory Access Protocol.
 - LLDP: Link Layer Discovery Protocol.
+- LUKS: Linux Unified Key Setup.
 - LUN: Logical Unit Number.
 
 ### M
