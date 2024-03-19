@@ -131,6 +131,7 @@
 ### H
 
 - HDL: Hardware Description Language.
+- HKEY: Handle to Registry-Key.
 - HSRP: Hot Standby Router Protocol.
 - HTTP: Hyper-Text Transfer Protocol.
 
