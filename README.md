@@ -80,6 +80,7 @@
 
 ### D
 
+- DAC: Discrectionary Access Control.
 - DAS: Direct Attached Storage.
 - DCIM: Data Center Infrastructure Management.
 - DDoS: Distributed Denial of Service
