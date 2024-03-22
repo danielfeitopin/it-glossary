@@ -217,6 +217,7 @@
 - RADIUS: Remote Authentication Dial-In User Service.
 - RAID: Redundant Array of Inexpensive Disks.
 - RAM: Random Access Memory.
+- RDM: Remote Desktop Manager.
 - RFC: Request For Comment.
 - ROM: Read Only Memory.
 - RSA: Rivest, Shamir & Adleman.
