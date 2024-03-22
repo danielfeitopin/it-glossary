@@ -130,6 +130,7 @@
 
 ### H
 
+- HDD: Hard Disk Drive.
 - HDL: Hardware Description Language.
 - HKEY: Handle to Registry-Key.
 - HSRP: Hot Standby Router Protocol.
