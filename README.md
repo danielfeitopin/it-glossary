@@ -53,6 +53,7 @@
 - APU: Accelerated Processing Unit.
 - ARP: Address Resolution Protocol.
 - ATA: AT Attachment.
+- AWS: Amazon Web Services.
 
 ### B
 
