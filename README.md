@@ -155,6 +155,7 @@
 ### J
 
 - JBOD: Just a Bunch of Disks.
+- JPEG: Joint Photographic Experts Group.
 
 ### L
 
