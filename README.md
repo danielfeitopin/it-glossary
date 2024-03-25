@@ -207,6 +207,7 @@
 - PIM: Protocol-Independent Multicast.
 - PKI: Public Key Infrastructure.
 - PLC: Programmable Logic Controller.
+- PNG: Portable Network Graphics.
 - PPPoE: Point to Point Protocol over Ethernet.
 - PROM: Programmable ROM.
 
