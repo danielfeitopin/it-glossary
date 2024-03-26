@@ -177,6 +177,7 @@
 - MQTT: MQ Telemetry Transport.
 - MRU: Most Recently Used.
 - MTU: Maximum Transmission Unit.
+- ML: Machine Learning.
 
 ### N
 
