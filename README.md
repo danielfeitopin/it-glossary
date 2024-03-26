@@ -173,11 +173,11 @@
   - Media Access Control.
   - Message Authentication Code.
 - MBR: Master Boot Record.
+- ML: Machine Learning.
 - MPLS: MultiProtocol Label Switching.
 - MQTT: MQ Telemetry Transport.
 - MRU: Most Recently Used.
 - MTU: Maximum Transmission Unit.
-- ML: Machine Learning.
 
 ### N
 
