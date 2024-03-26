@@ -88,6 +88,7 @@
 - DES: Data Encryption Standard.
 - DFIR: Digital Forensics and Incident Response.
 - DHCP: Dynamic Host Configuration Protocol.
+- DL: Deep Learning.
 - DLP: Data Loss Prevention.
 - DN: Distinguished Name.
 - DNS: Domain Name System.
