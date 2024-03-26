@@ -244,6 +244,7 @@
 - SSH: Secure Shell.
 - SSL: Secure Sockets Layer.
 - STP: Spanning Tree Protocol.
+- SVM: Support-Vector Machines.
 
 ### T
 
