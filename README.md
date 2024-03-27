@@ -48,7 +48,10 @@
 - ACL: Access Control Lists.
 - AES: Advanced Encryption Standard.
 - AH: Authentication Header.
+- AI: Artificial Intelligence.
+- ANN: Artificial Neural Network.
 - AoE: ATA over Ethernet.
+- API: Application Programming Interface.
 - APT: Advanced Packaging Tool.
 - APU: Accelerated Processing Unit.
 - ARP: Address Resolution Protocol.
@@ -57,6 +60,7 @@
 
 ### B
 
+- BD: Big Data.
 - BIOS: Basic Input/Output System.
 - BGP: Border Gateway Protocol.
 - BPDU: Bridge Protocol Data Unit.
@@ -76,6 +80,7 @@
 - CPU: Central Processing Unit.
 - CRL: Certificate Revocation List.
 - CSS: Cascading Style Sheets.
+- CV: Computer Vision.
 - CVE: Common Vulnerabilities and Exposures.
 - CWE: Common Weakness Enumeration.
 
@@ -164,6 +169,7 @@
 - LAG: Link Aggregation Group.
 - LDAP: Lightweight Directory Access Protocol.
 - LLDP: Link Layer Discovery Protocol.
+- LLM: Large Language Model.
 - LUKS: Linux Unified Key Setup.
 - LUN: Logical Unit Number.
 
@@ -186,6 +192,7 @@
 - NAT: Network Address Translation.
 - NDP: Neighbor Discovery Protocol.
 - NFS: Network File System.
+- NLP: Natural Language Processing.
 - NPS: Network Policy Server.
 - NPU: Neural Processing Unit.
 - NSE: Nmap Scripting Engine.
@@ -204,6 +211,7 @@
 
 - PAM: Pluggable Authentication Modules.
 - PATA: Parallel ATA.
+- PCA: Principal Component Analysis.
 - PKI: Public Key Infrastructure.
 - PHB: Per Hop Behavior.
 - PIM: Protocol-Independent Multicast.
@@ -252,6 +260,7 @@
 
 - TCN: Topology Change Notification.
 - TCP: Transmission Control Protocol.
+- TF: TensorFlow.
 - TLS: Transport Layer Security.
 - ToS: Type of Service.
 
