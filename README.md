@@ -46,9 +46,12 @@
 ### A
 
 - ACL: Access Control Lists.
+- ACU: Address Computation Unit.
 - AES: Advanced Encryption Standard.
+- AGU: Address Generation Unit.
 - AH: Authentication Header.
 - AI: Artificial Intelligence.
+- ALU: Arithmetic Logic Unit.
 - ANN: Artificial Neural Network.
 - AoE: ATA over Ethernet.
 - API: Application Programming Interface.
@@ -120,6 +123,7 @@
 - FAT: File Allocation Table.
 - FIB: Forwarding Information Base.
 - FPGA: Field Programmable Gate Arrays.
+- FPU: Floating-Point Unit.
 - FQDN: Fully Qualified Domain Name.
 - FS: File System.
 - FTP: File Transfer Protocol.
@@ -147,6 +151,7 @@
 
 - IaaS: Infrastructure as a Service.
 - IANA: Internet Assigned Numbers Authority.
+- IC: Integrated Circuit.
 - ICMP: Internet Control Message Protocol.
 - IETF: Internet Engineering Task Force.
 - IGMP: Internet Group Management Protocol.
@@ -155,6 +160,7 @@
 - IoT: Internet of Things.
 - IP: Internet Protocol.
 - IPSec: IP Security.
+- ISA: Instruction Set Architecture.
 - iSCSI: Internet Small Computer System Interface.
 - ISP: Internet Service Provider.
 
@@ -247,6 +253,8 @@
 - SCSI: Small Computer System Interface.
 - SCTP: Stream Control Transmission Protocol.
 - SHA: Secure Hash Algorithm.
+- SIMD: Single Instruction, Multiple Data.
+- SIMT: Single Instruction, Multiple Threads.
 - SIP: Session Initiation Protocol.
 - SLAAC: Stateless Address Autoconfiguration.
 - SNMP: Simple Network Management Protocol.
