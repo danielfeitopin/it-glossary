@@ -301,6 +301,7 @@
 
 - XFS: "X" File System.
 - XMPP: eXtensible Messaging and Presence Protocol.
+- XSS: cross-Site Scripting.
 
 ### Y
 
