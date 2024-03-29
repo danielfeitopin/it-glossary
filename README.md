@@ -188,7 +188,7 @@
 - MBR: Master Boot Record.
 - ML: Machine Learning.
 - MPLS: MultiProtocol Label Switching.
-- MQTT: MQ Telemetry Transport.
+- MQTT: Message Queuing Telemetry Transport.
 - MRU: Most Recently Used.
 - MTU: Maximum Transmission Unit.
 
