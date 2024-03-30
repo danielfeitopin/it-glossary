@@ -259,6 +259,7 @@
 - SLAAC: Stateless Address Autoconfiguration.
 - SNMP: Simple Network Management Protocol.
 - SQL: Structured Query Language.
+- SSID: Service Set IDentifier.
 - SSH: Secure Shell.
 - SSL: Secure Sockets Layer.
 - STP: Spanning Tree Protocol.
