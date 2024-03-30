@@ -67,6 +67,7 @@
 - BIOS: Basic Input/Output System.
 - BGP: Border Gateway Protocol.
 - BPDU: Bridge Protocol Data Unit.
+- BSoD: Blue Screen of Death.
 - BTRFS: B-tree File System.
 
 ### C
