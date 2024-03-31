@@ -134,6 +134,7 @@
 - GCC: GNU Compiler Collection.
 - GIMP: GNU Image Manipulation Program.
 - GNU: GNU's Not Unix.
+- GPG: GNU Privacy Guard.
 - GPL: GNU General Public License.
 - GPT: GUID Partition Table.
 - GPU: Graphics Processing Unit.
