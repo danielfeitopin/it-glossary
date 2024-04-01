@@ -220,6 +220,7 @@
 - PAM: Pluggable Authentication Modules.
 - PATA: Parallel ATA.
 - PCA: Principal Component Analysis.
+- PGP: Pretty Good Privacy.
 - PKI: Public Key Infrastructure.
 - PHB: Per Hop Behavior.
 - PIM: Protocol-Independent Multicast.
