@@ -118,6 +118,7 @@
 - ESP:
   - Encapsulating Security Payload.
   - EFI System Partition.
+- EUID: Effective User ID
 
 ### F
 
