@@ -220,9 +220,9 @@
 ### P
 
 - PAM: Pluggable Authentication Modules.
-- PEAP: Protected EAP.
 - PATA: Parallel ATA.
 - PCA: Principal Component Analysis.
+- PEAP: Protected EAP.
 - PGP: Pretty Good Privacy.
 - PHB: Per Hop Behavior.
 - PIM: Protocol-Independent Multicast.
@@ -272,9 +272,9 @@
 
 ### T
 
-- TEAP: Tunnel-based EAP
 - TCN: Topology Change Notification.
 - TCP: Transmission Control Protocol.
+- TEAP: Tunnel-based EAP
 - TF: TensorFlow.
 - TLS: Transport Layer Security.
 - ToS: Type of Service.
