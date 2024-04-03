@@ -107,6 +107,7 @@
 
 ### E
 
+- EAP: Extensible Authentication Protocol
 - EBR: Extended Boot Record.
 - ECDSA: Elliptic Curve Digital Signature Algorithm.
 - ECN: Explicit Congestion Notification.
@@ -221,6 +222,7 @@
 - PAM: Pluggable Authentication Modules.
 - PATA: Parallel ATA.
 - PCA: Principal Component Analysis.
+- PEAP: Protected EAP.
 - PGP: Pretty Good Privacy.
 - PHB: Per Hop Behavior.
 - PIM: Protocol-Independent Multicast.
@@ -272,6 +274,7 @@
 
 - TCN: Topology Change Notification.
 - TCP: Transmission Control Protocol.
+- TEAP: Tunnel-based EAP
 - TF: TensorFlow.
 - TLS: Transport Layer Security.
 - ToS: Type of Service.
