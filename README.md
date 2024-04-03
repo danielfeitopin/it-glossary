@@ -107,6 +107,7 @@
 
 ### E
 
+- EAP: Extensible Authentication Protocol
 - EBR: Extended Boot Record.
 - ECDSA: Elliptic Curve Digital Signature Algorithm.
 - ECN: Explicit Congestion Notification.
@@ -219,6 +220,7 @@
 ### P
 
 - PAM: Pluggable Authentication Modules.
+- PEAP: Protected EAP.
 - PATA: Parallel ATA.
 - PCA: Principal Component Analysis.
 - PGP: Pretty Good Privacy.
@@ -270,6 +272,7 @@
 
 ### T
 
+- TEAP: Tunnel-based EAP
 - TCN: Topology Change Notification.
 - TCP: Transmission Control Protocol.
 - TF: TensorFlow.
