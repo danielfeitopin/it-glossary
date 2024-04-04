@@ -145,6 +145,7 @@
 
 ### H
 
+- HA: High Availability.
 - HDD: Hard Disk Drive.
 - HDL: Hardware Description Language.
 - HKEY: Handle to Registry-Key.
