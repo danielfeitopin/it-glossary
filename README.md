@@ -138,6 +138,7 @@
 - GNU: GNU's Not Unix.
 - GPG: GNU Privacy Guard.
 - GPL: GNU General Public License.
+- GPS: Global Positioning System.
 - GPT: GUID Partition Table.
 - GPU: Graphics Processing Unit.
 - GRUB: GRand Unified Bootloader.
