@@ -111,6 +111,7 @@
 - EBR: Extended Boot Record.
 - ECDSA: Elliptic Curve Digital Signature Algorithm.
 - ECN: Explicit Congestion Notification.
+- EDR: Endpoint Detection & Response.
 - EEPROM: Electronically EPROM.
 - EFI: Extensible Firmware Interface.
 - EIGRP: Enhanced Interior Gateway Routing Protocol.
