@@ -281,6 +281,7 @@
 - TF: TensorFlow.
 - TLS: Transport Layer Security.
 - ToS: Type of Service.
+- TTL: Time To Live.
 
 ### U
 
