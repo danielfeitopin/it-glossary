@@ -160,6 +160,7 @@
 - IANA: Internet Assigned Numbers Authority.
 - IC: Integrated Circuit.
 - ICMP: Internet Control Message Protocol.
+- IEEE: Institute of Electrical and Electronics Engineers.
 - IETF: Internet Engineering Task Force.
 - IGMP: Internet Group Management Protocol.
 - IHL: Internet Header Length.
