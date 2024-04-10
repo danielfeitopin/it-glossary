@@ -267,6 +267,7 @@
 - SIP: Session Initiation Protocol.
 - SLAAC: Stateless Address Autoconfiguration.
 - SNMP: Simple Network Management Protocol.
+- SOC: Security Operations Center.
 - SQL: Structured Query Language.
 - SSID: Service Set IDentifier.
 - SSH: Secure Shell.
