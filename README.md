@@ -221,6 +221,7 @@
 - OCSP: Online Certificate Status Protocol.
 - OLE: Object Linking and Embedding.
 - OSPF: Open Shortest Path First.
+- OWASP: Open Web Application Security Project.
 
 ### P
 
