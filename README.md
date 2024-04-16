@@ -194,6 +194,7 @@
   - Media Access Control.
   - Message Authentication Code.
 - MBR: Master Boot Record.
+- MitM: Man-in-the-Middle.
 - ML: Machine Learning.
 - MPLS: MultiProtocol Label Switching.
 - MQTT: Message Queuing Telemetry Transport.
