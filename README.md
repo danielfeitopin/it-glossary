@@ -54,6 +54,7 @@
 - ALU: Arithmetic Logic Unit.
 - ANN: Artificial Neural Network.
 - AoE: ATA over Ethernet.
+- AP: Access Point.
 - API: Application Programming Interface.
 - APT: Advanced Packaging Tool.
 - APU: Accelerated Processing Unit.
