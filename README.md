@@ -45,6 +45,7 @@
 
 ### A
 
+- AAA: Authentication, Authorization and Accounting.
 - ACL: Access Control Lists.
 - ACU: Address Computation Unit.
 - AES: Advanced Encryption Standard.
