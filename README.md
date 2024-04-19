@@ -116,13 +116,14 @@
 - EDR: Endpoint Detection & Response.
 - EEPROM: Electronically EPROM.
 - EFI: Extensible Firmware Interface.
+- EID: Endpoint ID.
 - EIGRP: Enhanced Interior Gateway Routing Protocol.
 - EPROM: Erasable PROM.
 - ERP: Enterprise Resource Planning.
 - ESP:
   - Encapsulating Security Payload.
   - EFI System Partition.
-- EUID: Effective User ID
+- EUID: Effective User ID.
 
 ### F
 
@@ -162,6 +163,7 @@
 - IANA: Internet Assigned Numbers Authority.
 - IC: Integrated Circuit.
 - ICMP: Internet Control Message Protocol.
+- ICN: Information Centric Networking.
 - IEEE: Institute of Electrical and Electronics Engineers.
 - IETF: Internet Engineering Task Force.
 - IGMP: Internet Group Management Protocol.
@@ -183,6 +185,7 @@
 
 - LACP: Link Aggregation Control Protocol.
 - LAG: Link Aggregation Group.
+- LISP: Locator Id Separation Protocol.
 - LDAP: Lightweight Directory Access Protocol.
 - LLDP: Link Layer Discovery Protocol.
 - LLM: Large Language Model.
@@ -210,6 +213,7 @@
 - NAT: Network Address Translation.
 - NDP: Neighbor Discovery Protocol.
 - NFS: Network File System.
+- NFV: Network Function Virtualization.
 - NLP: Natural Language Processing.
 - NPS: Network Policy Server.
 - NPU: Neural Processing Unit.
@@ -252,11 +256,18 @@
 - RAM: Random Access Memory.
 - RDM: Remote Desktop Manager.
 - RFC: Request For Comment.
+- RINA: Recursive InterNetworking Architecture.
+- RLOC: Routing LOCator.
+- ROADM: Reconfigurable Optical Add-Drop Multiplixer.
 - ROM: Read Only Memory.
-- RSA: Rivest, Shamir & Adleman.
+- RSA:
+  - Rivest, Shamir & Adleman.
+  - Routing and Spectrum Assignment.
+- RSCA: Rounting, Spectrum and Core Assignment.
 - RTMP: Real-Time Messasging Protocol.
 - RTP: Real-time Transport Protocol.
 - RTSP: Real-Time Streaming Protocol.
+- RWA: Routing and Wavelength Assignment.
 
 ### S
 
@@ -266,6 +277,7 @@
 - SCP: Secure Copy Protocol.
 - SCSI: Small Computer System Interface.
 - SCTP: Stream Control Transmission Protocol.
+- SDN: Software Defined Network.
 - SHA: Secure Hash Algorithm.
 - SIMD: Single Instruction, Multiple Data.
 - SIMT: Single Instruction, Multiple Threads.
@@ -313,6 +325,7 @@
 
 ### W
 
+- WDM: Wavelength Division Multiplexing.
 - WSUS: Windows Server Update Services.
 - WWW: World Wide Web.
 
