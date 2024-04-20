@@ -103,7 +103,8 @@
 - DLP: Data Loss Prevention.
 - DN: Distinguished Name.
 - DNS: Domain Name System.
-- DoS: Denial of Service
+- DoS: Denial of Service.
+- DRS: Distributed Resource Scheduler.
 - DSCP: Differentiated Services Codepoint.
 - DWDM: Dense Wavelength Division Multiplexing.
 
