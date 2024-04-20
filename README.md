@@ -263,7 +263,7 @@
 - RSA:
   - Rivest, Shamir & Adleman.
   - Routing and Spectrum Assignment.
-- RSCA: Rounting, Spectrum and Core Assignment.
+- RSCA: Routing, Spectrum and Core Assignment.
 - RTMP: Real-Time Messasging Protocol.
 - RTP: Real-time Transport Protocol.
 - RTSP: Real-Time Streaming Protocol.
