@@ -327,6 +327,7 @@
 ### W
 
 - WDM: Wavelength Division Multiplexing.
+- WEP: Wired Equivalent Privacy.
 - WSUS: Windows Server Update Services.
 - WWW: World Wide Web.
 
