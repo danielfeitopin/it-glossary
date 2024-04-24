@@ -280,6 +280,7 @@
 - SCTP: Stream Control Transmission Protocol.
 - SDN: Software Defined Network.
 - SHA: Secure Hash Algorithm.
+- SIEM: Security Information and Event Management.
 - SIMD: Single Instruction, Multiple Data.
 - SIMT: Single Instruction, Multiple Threads.
 - SIP: Session Initiation Protocol.
