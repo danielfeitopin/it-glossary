@@ -330,6 +330,7 @@
 - WAP: Wireless Application Protocol.
 - WDM: Wavelength Division Multiplexing.
 - WEP: Wired Equivalent Privacy.
+- WPA: Wi-Fi Protected Access.
 - WSUS: Windows Server Update Services.
 - WWW: World Wide Web.
 
