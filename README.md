@@ -272,6 +272,7 @@
 
 ### S
 
+- SA: Security Association.
 - SAM: Security Account Manager.
 - SAN: Storage Area Network.
 - SATA: Serial ATA.
