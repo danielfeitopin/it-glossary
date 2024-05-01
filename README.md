@@ -206,6 +206,7 @@
 - MQTT: Message Queuing Telemetry Transport.
 - MRU: Most Recently Used.
 - MTU: Maximum Transmission Unit.
+- M2M: Machine-to-Machine.
 
 ### N
 
