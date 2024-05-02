@@ -268,6 +268,7 @@
   - Rivest, Shamir & Adleman.
   - Routing and Spectrum Assignment.
 - RSCA: Routing, Spectrum and Core Assignment.
+- RTC: Real Time Clock.
 - RTMP: Real-Time Messasging Protocol.
 - RTP: Real-time Transport Protocol.
 - RTSP: Real-Time Streaming Protocol.
