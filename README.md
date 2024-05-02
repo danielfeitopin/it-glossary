@@ -142,6 +142,7 @@
 - GIMP: GNU Image Manipulation Program.
 - GNU: GNU's Not Unix.
 - GPG: GNU Privacy Guard.
+- GPIO: General Purpose Input/Output.
 - GPL: GNU General Public License.
 - GPS: Global Positioning System.
 - GPT: GUID Partition Table.
