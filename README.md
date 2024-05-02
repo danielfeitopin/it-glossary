@@ -237,6 +237,7 @@
 - PAM: Pluggable Authentication Modules.
 - PATA: Parallel ATA.
 - PCA: Principal Component Analysis.
+- PCB: Printed Circuit Board.
 - PEAP: Protected EAP.
 - PGP: Pretty Good Privacy.
 - PHB: Per Hop Behavior.
