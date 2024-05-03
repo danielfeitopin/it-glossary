@@ -52,6 +52,7 @@
 - AGU: Address Generation Unit.
 - AH: Authentication Header.
 - AI: Artificial Intelligence.
+- AKM: Authentication and Key Management.
 - ALU: Arithmetic Logic Unit.
 - ANN: Artificial Neural Network.
 - AoE: ATA over Ethernet.
