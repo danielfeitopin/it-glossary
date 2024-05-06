@@ -209,6 +209,7 @@
 - MPLS: MultiProtocol Label Switching.
 - MQTT: Message Queuing Telemetry Transport.
 - MRU: Most Recently Used.
+- MTPoD: Maximum Tolerable Period of Disruption.
 - MTU: Maximum Transmission Unit.
 - M2M: Machine-to-Machine.
 
@@ -267,6 +268,7 @@
 - RLOC: Routing LOCator.
 - ROADM: Reconfigurable Optical Add-Drop Multiplixer.
 - ROM: Read Only Memory.
+- RPO: Recovery Point Objective.
 - RSA:
   - Rivest, Shamir & Adleman.
   - Routing and Spectrum Assignment.
@@ -274,6 +276,7 @@
 - RSSI: Received Signal Strength Indicator.
 - RTC: Real Time Clock.
 - RTMP: Real-Time Messasging Protocol.
+- RTO: Recovery Time Objective.
 - RTP: Real-time Transport Protocol.
 - RTSP: Real-Time Streaming Protocol.
 - RWA: Routing and Wavelength Assignment.
