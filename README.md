@@ -269,6 +269,7 @@
   - Rivest, Shamir & Adleman.
   - Routing and Spectrum Assignment.
 - RSCA: Routing, Spectrum and Core Assignment.
+- RSSI: Received Signal Strength Indicator.
 - RTC: Real Time Clock.
 - RTMP: Real-Time Messasging Protocol.
 - RTP: Real-time Transport Protocol.
