@@ -76,7 +76,9 @@
 ### C
 
 - CBAC: Context-Based Access Control.
-- CDP: Cisco Discovery Protocol.
+- CDP: 
+  - Cisco Discovery Protocol.
+  - Continuous Data Protection.
 - CERT: Computer Emergency Response Team.
 - CGNAT: Carrier Grade NAT.
 - CIDR: Classless Interdomain Routing.
