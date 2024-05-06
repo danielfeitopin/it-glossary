@@ -76,6 +76,7 @@
 ### C
 
 - CBAC: Context-Based Access Control.
+- CBT: Changed Block Tracking.
 - CDP: 
   - Cisco Discovery Protocol.
   - Continuous Data Protection.
