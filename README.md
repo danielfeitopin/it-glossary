@@ -87,6 +87,7 @@
 - CN: Common Name.
 - CoPP: Control Plane Policing.
 - CPPr: Control Plane Protection.
+- CPS: Cyber-Physical System.
 - CPU: Central Processing Unit.
 - CRL: Certificate Revocation List.
 - CSS: Cascading Style Sheets.
