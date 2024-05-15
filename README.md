@@ -206,6 +206,7 @@
   - Media Access Control.
   - Message Authentication Code.
 - MBR: Master Boot Record.
+- MEMS: Micro-ElectroMechanical Systems.
 - MitM: Man-in-the-Middle.
 - ML: Machine Learning.
 - MPLS: MultiProtocol Label Switching.
