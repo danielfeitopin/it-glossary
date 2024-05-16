@@ -282,6 +282,7 @@
 - RTO: Recovery Time Objective.
 - RTP: Real-time Transport Protocol.
 - RTSP: Real-Time Streaming Protocol.
+- RTU: Remote Terminal Unit.
 - RWA: Routing and Wavelength Assignment.
 
 ### S
