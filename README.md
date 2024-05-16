@@ -161,6 +161,7 @@
 - HDD: Hard Disk Drive.
 - HDL: Hardware Description Language.
 - HKEY: Handle to Registry-Key.
+- HMI: Human-Machine Interface.
 - HSRP: Hot Standby Router Protocol.
 - HTTP: Hyper-Text Transfer Protocol.
 
