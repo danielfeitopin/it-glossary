@@ -213,7 +213,9 @@
 - MQTT: Message Queuing Telemetry Transport.
 - MRU: Most Recently Used.
 - MTPoD: Maximum Tolerable Period of Disruption.
-- MTU: Maximum Transmission Unit.
+- MTU:
+  - Master Terminal Unit.
+  - Maximum Transmission Unit.
 - M2M: Machine-to-Machine.
 
 ### N
