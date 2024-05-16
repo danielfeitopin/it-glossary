@@ -349,6 +349,7 @@
 - WPA: Wi-Fi Protected Access.
 - WSUS: Windows Server Update Services.
 - WWW: World Wide Web.
+- WYSIWYG: What You See Is What You Get.
 
 ### X
 
