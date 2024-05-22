@@ -100,7 +100,8 @@
 - DAC: Discrectionary Access Control.
 - DAS: Direct Attached Storage.
 - DCIM: Data Center Infrastructure Management.
-- DDoS: Distributed Denial of Service
+- DDoS: Distributed Denial of Service.
+- DEP: Data Execution Prevention.
 - DES: Data Encryption Standard.
 - DFIR: Digital Forensics and Incident Response.
 - DHCP: Dynamic Host Configuration Protocol.
