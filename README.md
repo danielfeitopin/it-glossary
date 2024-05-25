@@ -223,7 +223,9 @@
 ### N
 
 - NAC: Network Access Control.
-- NAS: Network Attached Storage.
+- NAS:
+  - Network Access Server.
+  - Network Attached Storage.
 - NAT: Network Address Translation.
 - NDP: Neighbor Discovery Protocol.
 - NFS: Network File System.
